@@ -1,0 +1,379 @@
+{
+    "help": "You are using the beta version of the data exporting feature. Unfortunately, this version does not support displaying the data from this section in a more human-friendly way. This will be supported in the next updates of Telegram Desktop.",
+    "email_about": "",
+    "about_meta": "We may collect data such as your IP address, history of username and phone number changes to prevent spam, abuse, and other violations of our Terms of Service. If collected, this data can be kept for 12 months maximum.\n\nUnfortunately, the data presented below this notice may not be complete. The full set will become available when you export data using one of the next versions of Telegram Desktop, within a month. We apologize for the delay.",
+    "changes_log": [],
+    "ips": [
+        {
+            "ip": "95.47.121.55"
+        },
+        {
+            "ip": "188.113.237.207"
+        },
+        {
+            "ip": "188.113.242.249"
+        },
+        {
+            "ip": "188.113.199.197"
+        },
+        {
+            "ip": "188.113.237.239"
+        },
+        {
+            "ip": "195.158.11.211"
+        },
+        {
+            "ip": "195.158.11.211"
+        },
+        {
+            "ip": "188.113.234.96"
+        },
+        {
+            "ip": "188.113.238.2"
+        },
+        {
+            "ip": "188.113.195.206"
+        },
+        {
+            "ip": "188.113.234.48"
+        },
+        {
+            "ip": "188.113.239.50"
+        },
+        {
+            "ip": "188.113.194.161"
+        },
+        {
+            "ip": "188.113.237.118"
+        },
+        {
+            "ip": "188.113.239.168"
+        },
+        {
+            "ip": "188.113.236.243"
+        },
+        {
+            "ip": "188.113.197.179"
+        },
+        {
+            "ip": "213.230.92.178"
+        },
+        {
+            "ip": "188.113.195.205"
+        },
+        {
+            "ip": "213.230.79.127"
+        },
+        {
+            "ip": "188.113.195.121"
+        },
+        {
+            "ip": "188.113.200.93"
+        },
+        {
+            "ip": "213.230.94.98"
+        },
+        {
+            "ip": "188.113.241.28"
+        },
+        {
+            "ip": "188.113.194.149"
+        },
+        {
+            "ip": "188.113.194.149"
+        },
+        {
+            "ip": "213.230.102.214"
+        },
+        {
+            "ip": "188.113.202.22"
+        },
+        {
+            "ip": "188.113.195.202"
+        },
+        {
+            "ip": "188.113.197.13"
+        },
+        {
+            "ip": "188.113.196.155"
+        },
+        {
+            "ip": "213.230.93.54"
+        },
+        {
+            "ip": "188.113.194.217"
+        },
+        {
+            "ip": "188.113.197.30"
+        },
+        {
+            "ip": "188.113.238.147"
+        },
+        {
+            "ip": "188.113.238.123"
+        },
+        {
+            "ip": "188.113.240.109"
+        },
+        {
+            "ip": "188.113.236.58"
+        },
+        {
+            "ip": "188.113.239.201"
+        },
+        {
+            "ip": "188.113.195.62"
+        },
+        {
+            "ip": "188.113.197.142"
+        },
+        {
+            "ip": "188.113.235.169"
+        },
+        {
+            "ip": "188.113.239.47"
+        },
+        {
+            "ip": "188.113.236.106"
+        },
+        {
+            "ip": "188.113.197.124"
+        },
+        {
+            "ip": "188.113.238.153"
+        },
+        {
+            "ip": "188.113.234.200"
+        },
+        {
+            "ip": "188.113.255.38"
+        },
+        {
+            "ip": "188.113.199.231"
+        },
+        {
+            "ip": "188.113.199.210"
+        },
+        {
+            "ip": "188.113.197.17"
+        },
+        {
+            "ip": "188.113.196.186"
+        },
+        {
+            "ip": "188.113.245.213"
+        },
+        {
+            "ip": "188.113.235.38"
+        },
+        {
+            "ip": "185.163.26.142"
+        },
+        {
+            "ip": "188.113.197.10"
+        },
+        {
+            "ip": "188.113.198.156"
+        },
+        {
+            "ip": "188.113.198.59"
+        },
+        {
+            "ip": "188.113.211.234"
+        },
+        {
+            "ip": "188.113.194.248"
+        },
+        {
+            "ip": "188.113.196.79"
+        },
+        {
+            "ip": "188.113.199.230"
+        },
+        {
+            "ip": "188.113.241.195"
+        },
+        {
+            "ip": "188.113.200.176"
+        },
+        {
+            "ip": "188.113.239.213"
+        },
+        {
+            "ip": "188.113.198.78"
+        },
+        {
+            "ip": "188.113.239.190"
+        },
+        {
+            "ip": "188.113.195.217"
+        },
+        {
+            "ip": "188.113.195.217"
+        },
+        {
+            "ip": "188.113.197.107"
+        },
+        {
+            "ip": "188.113.236.230"
+        },
+        {
+            "ip": "188.113.198.196"
+        },
+        {
+            "ip": "188.113.196.5"
+        },
+        {
+            "ip": "188.113.194.71"
+        },
+        {
+            "ip": "188.113.236.13"
+        },
+        {
+            "ip": "188.113.236.47"
+        },
+        {
+            "ip": "188.113.195.109"
+        },
+        {
+            "ip": "188.113.195.23"
+        },
+        {
+            "ip": "188.113.194.85"
+        },
+        {
+            "ip": "188.113.235.173"
+        },
+        {
+            "ip": "188.113.238.215"
+        },
+        {
+            "ip": "188.113.234.86"
+        },
+        {
+            "ip": "188.113.239.136"
+        },
+        {
+            "ip": "188.113.235.195"
+        },
+        {
+            "ip": "188.113.213.243"
+        },
+        {
+            "ip": "188.113.199.178"
+        },
+        {
+            "ip": "188.113.201.9"
+        },
+        {
+            "ip": "185.163.26.176"
+        },
+        {
+            "ip": "188.113.237.176"
+        },
+        {
+            "ip": "188.113.196.162"
+        },
+        {
+            "ip": "188.113.200.136"
+        },
+        {
+            "ip": "188.113.240.92"
+        },
+        {
+            "ip": "188.113.196.100"
+        },
+        {
+            "ip": "188.113.194.162"
+        },
+        {
+            "ip": "188.113.199.130"
+        },
+        {
+            "ip": "188.113.236.134"
+        },
+        {
+            "ip": "188.113.197.69"
+        },
+        {
+            "ip": "188.113.200.198"
+        },
+        {
+            "ip": "95.47.121.55"
+        },
+        {
+            "ip": "84.54.77.149"
+        }
+    ],
+    "installed_stickers": [
+        {
+            "url": "https:\/\/t.me\/addstickers\/yandex_navruz"
+        },
+        {
+            "url": "https:\/\/t.me\/addstickers\/Iscanderka"
+        },
+        {
+            "url": "https:\/\/t.me\/addstickers\/vladimir_yakovlev"
+        },
+        {
+            "url": "https:\/\/t.me\/addstickers\/Rugfive"
+        },
+        {
+            "url": "https:\/\/t.me\/addstickers\/Wetuohbcdru"
+        },
+        {
+            "url": "https:\/\/t.me\/addstickers\/GBTDPack"
+        },
+        {
+            "url": "https:\/\/t.me\/addstickers\/geekmovies"
+        },
+        {
+            "url": "https:\/\/t.me\/addstickers\/StarmanMusk"
+        },
+        {
+            "url": "https:\/\/t.me\/addstickers\/Yetakchilarkengashi"
+        },
+        {
+            "url": "https:\/\/t.me\/addstickers\/TrolluzFamily"
+        },
+        {
+            "url": "https:\/\/t.me\/addstickers\/JokePack"
+        },
+        {
+            "url": "https:\/\/t.me\/addstickers\/AfishaStickersTashmurad"
+        },
+        {
+            "url": "https:\/\/t.me\/addstickers\/MirziyoyevShavkat"
+        },
+        {
+            "url": "https:\/\/t.me\/addstickers\/Rugsix2"
+        },
+        {
+            "url": "https:\/\/t.me\/addstickers\/Rugsix"
+        },
+        {
+            "url": "https:\/\/t.me\/addstickers\/BrotherhoodBald"
+        },
+        {
+            "url": "https:\/\/t.me\/addstickers\/Rug2Stickers"
+        },
+        {
+            "url": "https:\/\/t.me\/addstickers\/westminsterrug4"
+        },
+        {
+            "url": "https:\/\/t.me\/addstickers\/Meme_stickers"
+        },
+        {
+            "url": "https:\/\/t.me\/addstickers\/Memesmemeseverywhere_2"
+        },
+        {
+            "url": "https:\/\/t.me\/addstickers\/putinstickers"
+        },
+        {
+            "url": "https:\/\/t.me\/addstickers\/EIDMUBORAK"
+        },
+        {
+            "url": "https:\/\/t.me\/addstickers\/GreatMindsColor"
+        }
+    ]
+}
